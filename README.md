@@ -11,7 +11,7 @@
 1. 安装gnuplot，已生成交互式图表，Mac OS可以使用`brew install gnuplot`安装
 2. 进入项目目录，使用以下命令运行。
 ```
-python3 gitstats  Git项目目录  报告目录
+python gitstats  Git项目目录  报告目录(不要使用:"python3 gitstats  Git项目目录  报告目录")
 ```
 
 ## 报告示例
