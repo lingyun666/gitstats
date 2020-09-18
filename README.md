@@ -14,6 +14,9 @@
 python gitstats  Git项目目录  报告目录(不要使用:"python3 gitstats  Git项目目录  报告目录")
 ```
 
+## gitstats.bat说明
+1. 设置gitstats源码路径后,自动生成以时间命名的文件夹,并打开该文件夹
+
 ## 报告示例
 ![](https://tva1.sinaimg.cn/large/006y8mN6ly1g82ni5c6tnj30s80h176c.jpg)
 
